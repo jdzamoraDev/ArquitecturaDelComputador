@@ -56,8 +56,30 @@ body {
     float: left;
 }
 
-p{
+button{
     font-family: Arial;
 }
 
+.title {
+    position: absolute;
+    top: 25%;
+    transform: translateY(-50%);
+    color: #ffffff;
+    font-size: 2vw; 
+}
+.title2 {
+    position: absolute;
+    top: 32%;
+    transform: translateY(-50%);
+    color: #ffffff;
+    font-size: 1vw; 
+}
+
+.main{
+    margin-top: 20px; 
+    text-align: left; 
+    position: absolute;
+    bottom: 45%; 
+    left: 20px; 
+}
     
